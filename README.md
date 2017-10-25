@@ -1,3 +1,0 @@
-# GitTest
-
-first edit :D
